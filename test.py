@@ -4,3 +4,4 @@ for i in a:
     print(i)
 b=[2*i for i in a]
 print(b)
+print(a)
